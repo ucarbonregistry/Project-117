@@ -10,9 +10,9 @@ The details of the 94.2 MW bundled project are as follows:
 2. 6 Wind Power Project by M/s. Giriraj Enterprises at Shirgaon, Maharashtra
 3. 28 Wind Power Project by M/s. Giriraj Enterprises at Betul. Madhya Pradesh
 4. 30.8 Wind Power Project by M/s. Giriraj Enterprises at Khatav, Maharashtra
-5. _______________
-6. Prior History:
-7. PP will request for issuance of carbon offsets in UCR for the post completion of the fixed crediting
+ _______________
+Prior History:
+PP will request for issuance of carbon offsets in UCR for the post completion of the fixed crediting
 period (01/01/2014 – 31/03/2022) i.e., crediting period will start from 01/01/2014. The project is not
 registered with any other voluntary market (National or International). Hence, the criteria for double
 counting are not applicable for the project.
